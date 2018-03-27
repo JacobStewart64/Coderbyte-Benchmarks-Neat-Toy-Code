@@ -17,6 +17,6 @@ function LetterChanges(str) {
     return changedletters.join("");
 }
 
-console.log(LetterChanges( "a confusing /:sentence:/[ this is not!!!!!!!~"));
+console.log(LetterChanges("a confusing /:sentence:/[ this is not!!!!!!!~"));
 
 //dpOgvtjOh /:tfOUfOdf:/[ UIjt jt OpU!!!!!!!~
